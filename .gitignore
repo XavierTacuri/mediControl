@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.local
+.env.production
+data/*.db
+data/*.db-*
+coverage/
+dist/
+logs/
+*.log
+.idea/
+*.iml
